@@ -1,0 +1,12 @@
+h1{
+   margin:10px;
+   color:blue;
+}
+p{
+	color:red;
+}
+
+.menu{
+	display: flex;
+
+}
