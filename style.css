@@ -6,22 +6,42 @@ p{
 	color:red;
 	font-family: fantasy;
 }
-ul{
-space
-}
 
 .menu h2,h1{
 	font-family: fantasy;
 	font-size: 19;
 }
 
-
 .menu{
 	display: flex;
     flex-wrap: wrap;
 justify-content: space-evenly;
 }
-.menu img{
-	border: 2px solid black;
-	border-radius:50 px;
+
+.menuitem img{
+	border: 5px solid black;
+	border-radius: 20px;
+}
+
+li{
+font-variant-caps: all-petite-caps;
+width: 400px;`
+}
+
+.heading{
+	width: 1400px
+	height:100px;
+	display: flex;
+	align-items: flex-end;
+	background-color: black;
+}
+
+.heading a{
+	align-content: right;
+	justify-content:space-between;
+	margin: 10px;
+}
+
+.heading h1{
+	margin:40px;
 }
